@@ -1,1 +1,3 @@
-PLACEHOLDER_ROBOTS
+User-agent: *
+Allow: /
+Sitemap: https://suduralaserbihor.ro/sitemap.xml
